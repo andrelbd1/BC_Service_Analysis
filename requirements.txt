@@ -1,19 +1,10 @@
-pip==23.3.2
-alembic==1.7.1
-flask==1.1.2
-Werkzeug==0.16.1
-flask-restx==0.4.0
-Flask-RESTful==0.3.9
-requests==2.25.1
+pandas==1.4.3
 Jinja2==3.0.2
 itsdangerous==2.0.1
-pandas==1.4.3
-python-dotenv==1.0.0
 statsmodels==0.13.2
-SQLAlchemy==1.4.32
-python-dotenv==1.0.0
 XlsxWriter==3.1.9
 openpyxl==3.1.2
 matplotlib==3.3.4
-# psycopg2==2.8.6
-psycopg2-binary==2.9.9
+seaborn==0.13.0
+scikit-learn==0.24.1
+ipykernel==6.27.1
