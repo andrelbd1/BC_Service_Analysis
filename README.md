@@ -15,5 +15,5 @@ Create a virtualenv and install the requirements.
 
 Data Analysis and Dashboard
 ---------------------------------
-- [Analysis](source/analysis.ipynb)
+- [Notebook](source/analysis.ipynb)
 - [Dashboard](https://lookerstudio.google.com/reporting/2aaddabf-13a4-4bf3-accd-554757005079)
