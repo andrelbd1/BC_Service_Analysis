@@ -1,7 +1,8 @@
-# BC Service
+BC Service
+=======================
+[![GitHub last commit](https://img.shields.io/github/last-commit/andrelbd1/bc_service.svg)](https://github.com/andrelbd1/bc_service_analysis) 
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/andrelbd1/bc_service.svg)](https://github.com/andrelbd1/bc_service_analysis)
 
-Description
----------------------------------
 Analysis performed on data from BC Services 
 
 Quick Setup
